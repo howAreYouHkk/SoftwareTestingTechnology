@@ -1,0 +1,535 @@
+TestBackPack
+
+
+======================================== Generating Original Test Results ========================================
+end
+{testBackPack_Solution=pass}
+
+
+======================================== Executing Mutants ========================================
+test report: {testBackPack_Solution=}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+  AOIS_1end
+{testBackPack_Solution=pass}
+  AOIS_10end
+{testBackPack_Solution=pass}
+  AOIS_11end
+{testBackPack_Solution=pass}
+  AOIS_12end
+{testBackPack_Solution=pass}
+  AOIS_17end
+{testBackPack_Solution=pass}
+  AOIS_18end
+{testBackPack_Solution=pass}
+  AOIS_19end
+{testBackPack_Solution=pass}
+  AOIS_2end
+{testBackPack_Solution=pass}
+  AOIS_20end
+{testBackPack_Solution=pass}
+  AOIS_21end
+{testBackPack_Solution=pass}
+  AOIS_22end
+{testBackPack_Solution=pass}
+  AOIS_23end
+{testBackPack_Solution=pass}
+  AOIS_24end
+{testBackPack_Solution=pass}
+  AOIS_25end
+{testBackPack_Solution=pass}
+  AOIS_26end
+{testBackPack_Solution=pass}
+  AOIS_27end
+{testBackPack_Solution=pass}
+  AOIS_28end
+{testBackPack_Solution=pass}
+  AOIS_29end
+{testBackPack_Solution=pass}
+  AOIS_3end
+{testBackPack_Solution=pass}
+  AOIS_30end
+{testBackPack_Solution=pass}
+  AOIS_31end
+{testBackPack_Solution=pass}
+  AOIS_32end
+{testBackPack_Solution=pass}
+  AOIS_33end
+{testBackPack_Solution=pass}
+  AOIS_34end
+{testBackPack_Solution=pass}
+  AOIS_35end
+{testBackPack_Solution=pass}
+  AOIS_36end
+{testBackPack_Solution=pass}
+  AOIS_37end
+{testBackPack_Solution=pass}
+  AOIS_38end
+{testBackPack_Solution=pass}
+  AOIS_4end
+{testBackPack_Solution=pass}
+  AOIS_9end
+{testBackPack_Solution=pass}
+  AOIU_1end
+{testBackPack_Solution=pass}
+  AOIU_2end
+{testBackPack_Solution=pass}
+  AOIU_3end
+{testBackPack_Solution=pass}
+  AORB_1end
+{testBackPack_Solution=pass}
+  AORB_10end
+{testBackPack_Solution=pass}
+  AORB_11end
+{testBackPack_Solution=pass}
+  AORB_12end
+{testBackPack_Solution=pass}
+  AORB_13end
+{testBackPack_Solution=pass}
+  AORB_14end
+{testBackPack_Solution=pass}
+  AORB_15end
+{testBackPack_Solution=pass}
+  AORB_16end
+{testBackPack_Solution=pass}
+  AORB_17end
+{testBackPack_Solution=pass}
+  AORB_18end
+{testBackPack_Solution=pass}
+  AORB_19end
+{testBackPack_Solution=pass}
+  AORB_2end
+{testBackPack_Solution=pass}
+  AORB_20end
+{testBackPack_Solution=pass}
+  AORB_21end
+{testBackPack_Solution=pass}
+  AORB_22end
+{testBackPack_Solution=pass}
+  AORB_23end
+{testBackPack_Solution=pass}
+  AORB_24end
+{testBackPack_Solution=pass}
+  AORB_3end
+{testBackPack_Solution=pass}
+  AORB_4end
+{testBackPack_Solution=pass}
+  AORB_5end
+{testBackPack_Solution=pass}
+  AORB_6end
+{testBackPack_Solution=pass}
+  AORB_7end
+{testBackPack_Solution=pass}
+  AORB_8end
+{testBackPack_Solution=pass}
+  AORB_9end
+{testBackPack_Solution=pass}
+  AORS_1end
+{testBackPack_Solution=pass}
+  AORS_2end
+{testBackPack_Solution=pass}
+  CDL_1end
+{testBackPack_Solution=pass}
+  CDL_2end
+{testBackPack_Solution=pass}
+  CDL_3end
+{testBackPack_Solution=pass}
+  CDL_4end
+{testBackPack_Solution=pass}
+  CDL_5end
+{testBackPack_Solution=pass}
+  COI_1end
+{testBackPack_Solution=pass}
+  COI_2end
+{testBackPack_Solution=pass}
+  COI_3end
+{testBackPack_Solution=pass}
+  LOI_1end
+{testBackPack_Solution=pass}
+  LOI_10end
+{testBackPack_Solution=pass}
+  LOI_11end
+{testBackPack_Solution=pass}
+  LOI_12end
+{testBackPack_Solution=pass}
+  LOI_13end
+{testBackPack_Solution=pass}
+  LOI_14end
+{testBackPack_Solution=pass}
+  LOI_2end
+{testBackPack_Solution=pass}
+  LOI_4end
+{testBackPack_Solution=pass}
+  LOI_5end
+{testBackPack_Solution=pass}
+  LOI_6end
+{testBackPack_Solution=pass}
+  LOI_8end
+{testBackPack_Solution=pass}
+  LOI_9end
+{testBackPack_Solution=pass}
+  ODL_1end
+{testBackPack_Solution=pass}
+  ODL_13end
+{testBackPack_Solution=pass}
+  ODL_14end
+{testBackPack_Solution=pass}
+  ODL_17end
+{testBackPack_Solution=pass}
+  ODL_18end
+{testBackPack_Solution=pass}
+  ODL_19end
+{testBackPack_Solution=pass}
+  ODL_2end
+{testBackPack_Solution=pass}
+  ODL_20end
+{testBackPack_Solution=pass}
+  ODL_6end
+{testBackPack_Solution=pass}
+  ODL_7end
+{testBackPack_Solution=pass}
+  ODL_8end
+{testBackPack_Solution=pass}
+  ODL_9end
+{testBackPack_Solution=pass}
+  ROR_1end
+{testBackPack_Solution=pass}
+  ROR_10end
+{testBackPack_Solution=pass}
+  ROR_11end
+{testBackPack_Solution=pass}
+  ROR_12end
+{testBackPack_Solution=pass}
+  ROR_13end
+{testBackPack_Solution=pass}
+  ROR_15end
+{testBackPack_Solution=pass}
+  ROR_16end
+{testBackPack_Solution=pass}
+  ROR_17end
+{testBackPack_Solution=pass}
+  ROR_18end
+{testBackPack_Solution=pass}
+  ROR_19end
+{testBackPack_Solution=pass}
+  ROR_2end
+{testBackPack_Solution=pass}
+  ROR_20end
+{testBackPack_Solution=pass}
+  ROR_21end
+{testBackPack_Solution=pass}
+  ROR_3end
+{testBackPack_Solution=pass}
+  ROR_4end
+{testBackPack_Solution=pass}
+  ROR_5end
+{testBackPack_Solution=pass}
+  ROR_8end
+{testBackPack_Solution=pass}
+  ROR_9end
+{testBackPack_Solution=pass}
+  SDL_1end
+{testBackPack_Solution=pass}
+  SDL_10end
+{testBackPack_Solution=pass}
+  SDL_11end
+{testBackPack_Solution=pass}
+  SDL_2end
+{testBackPack_Solution=pass}
+  SDL_4end
+{testBackPack_Solution=pass}
+  SDL_5end
+{testBackPack_Solution=pass}
+  SDL_6end
+{testBackPack_Solution=pass}
+  SDL_7end
+{testBackPack_Solution=pass}
+  SDL_9end
+{testBackPack_Solution=pass}
+  VDL_10end
+{testBackPack_Solution=pass}
+  VDL_2end
+{testBackPack_Solution=pass}
+  VDL_3end
+{testBackPack_Solution=pass}
+  VDL_5end
+{testBackPack_Solution=pass}
+  VDL_6end
+{testBackPack_Solution=pass}
+  VDL_9end
+{testBackPack_Solution=pass}
+test report: {testBackPack_Solution=}
+mutant report: {VDL_10=, COI_3=, COI_2=, LOI_5=, LOI_6=, LOI_8=, LOI_1=, LOI_2=, LOI_4=, COI_1=, CDL_1=, CDL_2=, CDL_3=, LOI_9=, SDL_11=, AOIS_38=, VDL_9=, AOIS_37=, AOIS_36=, AOIS_35=, AOIS_34=, SDL_10=, AOIS_33=, AOIS_32=, VDL_3=, AOIS_31=, VDL_2=, AOIS_30=, VDL_6=, VDL_5=, AOIS_29=, AOIS_28=, AOIS_27=, AOIS_26=, ROR_21=, AOIS_25=, ROR_20=, AOIS_24=, AOIS_23=, AOIS_22=, AOIU_3=, ODL_9=, AOIS_21=, ODL_8=, AOIS_20=, AOIU_1=, AOIU_2=, ODL_1=, AORB_9=, ODL_2=, ODL_7=, ODL_6=, AORB_3=, AORB_4=, AORB_1=, AORB_2=, AORB_7=, AORB_8=, AORB_5=, AORB_6=, AOIS_19=, ROR_2=, AOIS_18=, ROR_13=, ROR_3=, AOIS_17=, ROR_16=, ROR_4=, ROR_15=, ROR_5=, ROR_10=, ROR_12=, ROR_8=, AOIS_12=, ROR_11=, ROR_9=, AOIS_11=, AORS_2=, AOIS_10=, AORS_1=, ROR_1=, ROR_18=, ROR_17=, ROR_19=, SDL_5=, SDL_4=, SDL_7=, SDL_6=, AORB_23=, SDL_9=, AORB_24=, AORB_21=, AORB_22=, SDL_1=, SDL_2=, AORB_16=, AORB_17=, AORB_14=, AORB_15=, AORB_12=, AORB_13=, AORB_10=, AORB_11=, AORB_18=, AORB_19=, CDL_4=, CDL_5=, ODL_20=, AORB_20=, ODL_19=, AOIS_3=, AOIS_4=, AOIS_1=, AOIS_2=, LOI_14=, AOIS_9=, LOI_10=, LOI_11=, LOI_12=, LOI_13=, ODL_14=, ODL_13=, ODL_18=, ODL_17=}
+
+
+======================================== Executing Mutants ========================================
+test report: {testBackPack_Solution=}
+mutant report: {VDL_10=, COI_3=, COI_2=, LOI_5=, LOI_6=, LOI_8=, LOI_1=, LOI_2=, LOI_4=, COI_1=, CDL_1=, CDL_2=, CDL_3=, LOI_9=, SDL_11=, AOIS_38=, VDL_9=, AOIS_37=, AOIS_36=, AOIS_35=, AOIS_34=, SDL_10=, AOIS_33=, AOIS_32=, VDL_3=, AOIS_31=, VDL_2=, AOIS_30=, VDL_6=, VDL_5=, AOIS_29=, AOIS_28=, AOIS_27=, AOIS_26=, ROR_21=, AOIS_25=, ROR_20=, AOIS_24=, AOIS_23=, AOIS_22=, AOIU_3=, ODL_9=, AOIS_21=, ODL_8=, AOIS_20=, AOIU_1=, AOIU_2=, ODL_1=, AORB_9=, ODL_2=, ODL_7=, ODL_6=, AORB_3=, AORB_4=, AORB_1=, AORB_2=, AORB_7=, AORB_8=, AORB_5=, AORB_6=, AOIS_19=, ROR_2=, AOIS_18=, ROR_13=, ROR_3=, AOIS_17=, ROR_16=, ROR_4=, ROR_15=, ROR_5=, ROR_10=, ROR_12=, ROR_8=, AOIS_12=, ROR_11=, ROR_9=, AOIS_11=, AORS_2=, AOIS_10=, AORS_1=, ROR_1=, ROR_18=, ROR_17=, ROR_19=, SDL_5=, SDL_4=, SDL_7=, SDL_6=, AORB_23=, SDL_9=, AORB_24=, AORB_21=, AORB_22=, SDL_1=, SDL_2=, AORB_16=, AORB_17=, AORB_14=, AORB_15=, AORB_12=, AORB_13=, AORB_10=, AORB_11=, AORB_18=, AORB_19=, CDL_4=, CDL_5=, ODL_20=, AORB_20=, ODL_19=, AOIS_3=, AOIS_4=, AOIS_1=, AOIS_2=, LOI_14=, AOIS_9=, LOI_10=, LOI_11=, LOI_12=, LOI_13=, ODL_14=, ODL_13=, ODL_18=, ODL_17=}
+TestBackPack
+
+
+======================================== Generating Original Test Results ========================================
+end
+{testBackPack_Solution=pass}
+
+
+======================================== Executing Mutants ========================================
+test report: {testBackPack_Solution=}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+  AOIS_1end
+{testBackPack_Solution=pass}
+  AOIS_10end
+{testBackPack_Solution=pass}
+  AOIS_11end
+{testBackPack_Solution=pass}
+  AOIS_12end
+{testBackPack_Solution=pass}
+  AOIS_17end
+{testBackPack_Solution=pass}
+  AOIS_18end
+{testBackPack_Solution=pass}
+  AOIS_19end
+{testBackPack_Solution=pass}
+  AOIS_2end
+{testBackPack_Solution=pass}
+  AOIS_20end
+{testBackPack_Solution=pass}
+  AOIS_21end
+{testBackPack_Solution=pass}
+  AOIS_22end
+{testBackPack_Solution=pass}
+  AOIS_23end
+{testBackPack_Solution=pass}
+  AOIS_24end
+{testBackPack_Solution=pass}
+  AOIS_25end
+{testBackPack_Solution=pass}
+  AOIS_26end
+{testBackPack_Solution=pass}
+  AOIS_27end
+{testBackPack_Solution=pass}
+  AOIS_28end
+{testBackPack_Solution=pass}
+  AOIS_29end
+{testBackPack_Solution=pass}
+  AOIS_3end
+{testBackPack_Solution=pass}
+  AOIS_30end
+{testBackPack_Solution=pass}
+  AOIS_31end
+{testBackPack_Solution=pass}
+  AOIS_32end
+{testBackPack_Solution=pass}
+  AOIS_33end
+{testBackPack_Solution=pass}
+  AOIS_34end
+{testBackPack_Solution=pass}
+  AOIS_35end
+{testBackPack_Solution=pass}
+  AOIS_36end
+{testBackPack_Solution=pass}
+  AOIS_37end
+{testBackPack_Solution=pass}
+  AOIS_38end
+{testBackPack_Solution=pass}
+  AOIS_4end
+{testBackPack_Solution=pass}
+  AOIS_9end
+{testBackPack_Solution=pass}
+  AOIU_1end
+{testBackPack_Solution=pass}
+  AOIU_2end
+{testBackPack_Solution=pass}
+  AOIU_3end
+{testBackPack_Solution=pass}
+  AORB_1end
+{testBackPack_Solution=pass}
+  AORB_10end
+{testBackPack_Solution=pass}
+  AORB_11end
+{testBackPack_Solution=pass}
+  AORB_12end
+{testBackPack_Solution=pass}
+  AORB_13end
+{testBackPack_Solution=pass}
+  AORB_14end
+{testBackPack_Solution=pass}
+  AORB_15end
+{testBackPack_Solution=pass}
+  AORB_16end
+{testBackPack_Solution=pass}
+  AORB_17end
+{testBackPack_Solution=pass}
+  AORB_18end
+{testBackPack_Solution=pass}
+  AORB_19end
+{testBackPack_Solution=pass}
+  AORB_2end
+{testBackPack_Solution=pass}
+  AORB_20end
+{testBackPack_Solution=pass}
+  AORB_21end
+{testBackPack_Solution=pass}
+  AORB_22end
+{testBackPack_Solution=pass}
+  AORB_23end
+{testBackPack_Solution=pass}
+  AORB_24end
+{testBackPack_Solution=pass}
+  AORB_3end
+{testBackPack_Solution=pass}
+  AORB_4end
+{testBackPack_Solution=pass}
+  AORB_5end
+{testBackPack_Solution=pass}
+  AORB_6end
+{testBackPack_Solution=pass}
+  AORB_7end
+{testBackPack_Solution=pass}
+  AORB_8end
+{testBackPack_Solution=pass}
+  AORB_9end
+{testBackPack_Solution=pass}
+  AORS_1end
+{testBackPack_Solution=pass}
+  AORS_2end
+{testBackPack_Solution=pass}
+  CDL_1end
+{testBackPack_Solution=pass}
+  CDL_2end
+{testBackPack_Solution=pass}
+  CDL_3end
+{testBackPack_Solution=pass}
+  CDL_4end
+{testBackPack_Solution=pass}
+  CDL_5end
+{testBackPack_Solution=pass}
+  COI_1end
+{testBackPack_Solution=pass}
+  COI_2end
+{testBackPack_Solution=pass}
+  COI_3end
+{testBackPack_Solution=pass}
+  LOI_1end
+{testBackPack_Solution=pass}
+  LOI_10end
+{testBackPack_Solution=pass}
+  LOI_11end
+{testBackPack_Solution=pass}
+  LOI_12end
+{testBackPack_Solution=pass}
+  LOI_13end
+{testBackPack_Solution=pass}
+  LOI_14end
+{testBackPack_Solution=pass}
+  LOI_2end
+{testBackPack_Solution=pass}
+  LOI_4end
+{testBackPack_Solution=pass}
+  LOI_5end
+{testBackPack_Solution=pass}
+  LOI_6end
+{testBackPack_Solution=pass}
+  LOI_8end
+{testBackPack_Solution=pass}
+  LOI_9end
+{testBackPack_Solution=pass}
+  ODL_1end
+{testBackPack_Solution=pass}
+  ODL_13end
+{testBackPack_Solution=pass}
+  ODL_14end
+{testBackPack_Solution=pass}
+  ODL_17end
+{testBackPack_Solution=pass}
+  ODL_18end
+{testBackPack_Solution=pass}
+  ODL_19end
+{testBackPack_Solution=pass}
+  ODL_2end
+{testBackPack_Solution=pass}
+  ODL_20end
+{testBackPack_Solution=pass}
+  ODL_6end
+{testBackPack_Solution=pass}
+  ODL_7end
+{testBackPack_Solution=pass}
+  ODL_8end
+{testBackPack_Solution=pass}
+  ODL_9end
+{testBackPack_Solution=pass}
+  ROR_1end
+{testBackPack_Solution=pass}
+  ROR_10end
+{testBackPack_Solution=pass}
+  ROR_11end
+{testBackPack_Solution=pass}
+  ROR_12end
+{testBackPack_Solution=pass}
+  ROR_13end
+{testBackPack_Solution=pass}
+  ROR_15end
+{testBackPack_Solution=pass}
+  ROR_16end
+{testBackPack_Solution=pass}
+  ROR_17end
+{testBackPack_Solution=pass}
+  ROR_18end
+{testBackPack_Solution=pass}
+  ROR_19end
+{testBackPack_Solution=pass}
+  ROR_2end
+{testBackPack_Solution=pass}
+  ROR_20end
+{testBackPack_Solution=pass}
+  ROR_21end
+{testBackPack_Solution=pass}
+  ROR_3end
+{testBackPack_Solution=pass}
+  ROR_4end
+{testBackPack_Solution=pass}
+  ROR_5end
+{testBackPack_Solution=pass}
+  ROR_8end
+{testBackPack_Solution=pass}
+  ROR_9end
+{testBackPack_Solution=pass}
+  SDL_1end
+{testBackPack_Solution=pass}
+  SDL_10end
+{testBackPack_Solution=pass}
+  SDL_11end
+{testBackPack_Solution=pass}
+  SDL_2end
+{testBackPack_Solution=pass}
+  SDL_4end
+{testBackPack_Solution=pass}
+  SDL_5end
+{testBackPack_Solution=pass}
+  SDL_6end
+{testBackPack_Solution=pass}
+  SDL_7end
+{testBackPack_Solution=pass}
+  SDL_9end
+{testBackPack_Solution=pass}
+  VDL_10end
+{testBackPack_Solution=pass}
+  VDL_2end
+{testBackPack_Solution=pass}
+  VDL_3end
+{testBackPack_Solution=pass}
+  VDL_5end
+{testBackPack_Solution=pass}
+  VDL_6end
+{testBackPack_Solution=pass}
+  VDL_9end
+{testBackPack_Solution=pass}
+test report: {testBackPack_Solution=}
+mutant report: {VDL_10=, COI_3=, COI_2=, LOI_5=, LOI_6=, LOI_8=, LOI_1=, LOI_2=, LOI_4=, COI_1=, CDL_1=, CDL_2=, CDL_3=, LOI_9=, SDL_11=, AOIS_38=, VDL_9=, AOIS_37=, AOIS_36=, AOIS_35=, AOIS_34=, SDL_10=, AOIS_33=, AOIS_32=, VDL_3=, AOIS_31=, VDL_2=, AOIS_30=, VDL_6=, VDL_5=, AOIS_29=, AOIS_28=, AOIS_27=, AOIS_26=, ROR_21=, AOIS_25=, ROR_20=, AOIS_24=, AOIS_23=, AOIS_22=, AOIU_3=, ODL_9=, AOIS_21=, ODL_8=, AOIS_20=, AOIU_1=, AOIU_2=, ODL_1=, AORB_9=, ODL_2=, ODL_7=, ODL_6=, AORB_3=, AORB_4=, AORB_1=, AORB_2=, AORB_7=, AORB_8=, AORB_5=, AORB_6=, AOIS_19=, ROR_2=, AOIS_18=, ROR_13=, ROR_3=, AOIS_17=, ROR_16=, ROR_4=, ROR_15=, ROR_5=, ROR_10=, ROR_12=, ROR_8=, AOIS_12=, ROR_11=, ROR_9=, AOIS_11=, AORS_2=, AOIS_10=, AORS_1=, ROR_1=, ROR_18=, ROR_17=, ROR_19=, SDL_5=, SDL_4=, SDL_7=, SDL_6=, AORB_23=, SDL_9=, AORB_24=, AORB_21=, AORB_22=, SDL_1=, SDL_2=, AORB_16=, AORB_17=, AORB_14=, AORB_15=, AORB_12=, AORB_13=, AORB_10=, AORB_11=, AORB_18=, AORB_19=, CDL_4=, CDL_5=, ODL_20=, AORB_20=, ODL_19=, AOIS_3=, AOIS_4=, AOIS_1=, AOIS_2=, LOI_14=, AOIS_9=, LOI_10=, LOI_11=, LOI_12=, LOI_13=, ODL_14=, ODL_13=, ODL_18=, ODL_17=}
